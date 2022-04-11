@@ -22,5 +22,5 @@ converts dull images to super resolution
 # usage
 
 <p align="center">
-  <img width="250" src="https://github.com/Nnamaka/super_resolution/blob/main/files/steps.gif">
+  <img src="https://github.com/Nnamaka/super_resolution/blob/main/files/steps.gif">
 </p>
