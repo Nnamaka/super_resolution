@@ -29,3 +29,5 @@ converts dull images to super resolution
 <hr></hr>
 
 # License
+
+<a href="https://github.com/Nnamaka/super_resolution/blob/main/LICENSE">GPL-3.0 License</a>
