@@ -17,3 +17,10 @@ converts dull images to super resolution
   <img width="200" heigt="200" src="https://github.com/Nnamaka/super_resolution/blob/main/files/roberto-nickson-Yp9FdEqaCdk-unsplash_rlt%20(1).png">
 </span>
 </div>
+
+
+# usage
+
+<p align="center">
+  <img width="250" src="https://github.com/Nnamaka/super_resolution/blob/main/files/steps.gif">
+</p>
