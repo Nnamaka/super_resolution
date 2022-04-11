@@ -19,6 +19,7 @@ converts dull images to super resolution
 </div>
 
 <hr></hr>
+
 # usage
 
 <p align="center">
