@@ -25,3 +25,7 @@ converts dull images to super resolution
 <p align="center">
   <img src="https://github.com/Nnamaka/super_resolution/blob/main/files/steps.gif">
 </p>
+
+<hr></hr>
+
+# License
