@@ -18,7 +18,7 @@ converts dull images to super resolution
 </span>
 </div>
 
-<hr></hr>
+
 
 # Usage
 
@@ -32,7 +32,7 @@ converts dull images to super resolution
 - At the upload section of the notebook, you'll need to upload an image you desire to upscale its resolution.
 - The last cell downloads the upscaled image to your local directory( the downloaded image can be found in the default/designated download folder of your browser).
 
-<hr></hr>
+
 
 # Note
 
