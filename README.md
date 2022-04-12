@@ -41,7 +41,7 @@ Convert a low resolution Image to super resolution
 
 # Credits 
 
-Credits goes to [xinntao](https://github.com/xinntao)
+Credits goes to [xinntao](https://github.com/xinntao). Thanks so much for your awesome work!
 
 # License
 
