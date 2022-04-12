@@ -1,5 +1,5 @@
 # Super_resolution
-Converts dull images to super resolution
+Convert a low resolution Image to super resolution
 
 
 <div>
