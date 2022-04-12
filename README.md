@@ -39,6 +39,10 @@ Convert a low resolution Image to super resolution
 - The GPU runtime in colab has to be turned on
 - The difference in pixel quality is observed if the uploaded image is of considerably low resolution. say `360x540`
 
+# Credits 
+
+Credits goes to [xinntao](https://github.com/xinntao)
+
 # License
 
 <a href="https://github.com/Nnamaka/super_resolution/blob/main/LICENSE">GPL-3.0 License</a>
