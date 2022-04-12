@@ -1,4 +1,4 @@
-# super_resolution
+# Super_resolution
 converts dull images to super resolution
 
 
@@ -20,7 +20,7 @@ converts dull images to super resolution
 
 <hr></hr>
 
-# usage
+# Usage
 
 <p align="center">
   <img src="https://github.com/Nnamaka/super_resolution/blob/main/files/steps.gif">
@@ -34,7 +34,7 @@ converts dull images to super resolution
 
 <hr></hr>
 
-# NOTE
+# Note
 
 - The GPU runtime in colab has to be turned on
 - The difference in pixel quality is observed if the uploaded image is of considerably low resolution. say `360x540`
